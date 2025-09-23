@@ -5,6 +5,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).  
 This project only uses dates (yyyy-mm-dd) to track changes.
 
+## 2025-09-23
+
+### Changed
+
+- `./linux/snowagent.config` - added Agent default install directory to the scan
+
 ## 2024-11-22
 
 ### Changed
